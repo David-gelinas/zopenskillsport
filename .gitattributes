@@ -1,0 +1,4 @@
+*       text  zos-working-tree-encoding=UTF-8
+*.png   binary
+*.gif   binary
+*.pax.Z binary
